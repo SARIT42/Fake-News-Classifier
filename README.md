@@ -1,7 +1,11 @@
 # Fake-News-Classifier
-A Fake News Classifier using different ML models with TF-IDF &amp; Bag-of-Words encodings of text. **ML Models are magical!**
+A Fake News Classifier using different ML models with TF-IDF &amp; Bag-of-Words encodings of text and also LSTM, Bi-directional LSTM with Word2Vec text embedding.
+
+
 
 Dataset : https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+
 
 Algorithms used as the ML Models and their accuracy:
 1. ***Logistic Regression with BoW*** ----> **99.80980085030208 %**
@@ -14,6 +18,7 @@ Algorithms used as the ML Models and their accuracy:
 8. ***SGD Classifier with TF-IDF*** ----> **99.76504810919668 %**
 9. ***Passive-Aggressive Classifier with BOW*** ----> **99.69791899753861 %**
 10. ***Passive-Aggressive Classifier with TF-IDF*** ----> **99.77623629447304 %**
+
 
 
 
